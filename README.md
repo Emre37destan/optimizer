@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Emre37destan/optimizer/releases/download/1.0/Optimizer-1.0.exe" target="_blank">
+	<a href="https://github.com/Emre37destan/optimizer/releases/download/1.1/Optimizer-1.1.exe" target="_blank">
 		<img src="https://github.com/Emre37destan/optimizer/blob/master/download-button.png?raw=true">
 		<br>
 		<img src="https://github.com/Emre37destan/optimizer/blob/master/flags.png?raw=true">
@@ -109,7 +109,7 @@ Learn about our security measures in the [Security Policy](https://github.com/Em
 </center>
 
 - Latest version: 1.0 (Released: April 18, 2025)
-- SHA256: 5d4635cbe9062878e6065f73c0a3fb9a935dc148e9f154010e81c20b46b25e61
+- SHA256: 30ad59931a1190dac4ae3bc91d9ed30f6d741de4686fdc19ce55a889f2985e54
 
 <center>
 <h2> ☕ Buy me a delicious espresso</h2>
