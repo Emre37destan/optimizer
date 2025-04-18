@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizer", "Optimizer\Optimizer.csproj", "{96563750-9265-4ACC-8E9E-61930A208A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Hata Ayikla|Any CPU = Hata Ayikla|Any CPU
+		Hata Ayiklama|Any CPU = Hata Ayiklama|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96563750-9265-4ACC-8E9E-61930A208A4D}.Hata Ayikla|Any CPU.ActiveCfg = Hata Ayikla|Any CPU
+		{96563750-9265-4ACC-8E9E-61930A208A4D}.Hata Ayikla|Any CPU.Build.0 = Hata Ayikla|Any CPU
+		{96563750-9265-4ACC-8E9E-61930A208A4D}.Hata Ayiklama|Any CPU.ActiveCfg = Hata Ayiklama|Any CPU
+		{96563750-9265-4ACC-8E9E-61930A208A4D}.Hata Ayiklama|Any CPU.Build.0 = Hata Ayiklama|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
