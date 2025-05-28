@@ -14,7 +14,7 @@ namespace Optimizer
         /// Version properties. Do NOT leave them empty
         /// </summary>
         internal readonly static float Major = 1;
-        internal readonly static float Minor = 1;
+        internal readonly static float Minor = 2;
         internal readonly static bool EXPERIMENTAL_BUILD = false;
 
         internal static string GetCurrentVersionTostring()
@@ -161,8 +161,8 @@ namespace Optimizer
 
                 if (arg == "/version")
                 {
-                    if (!EXPERIMENTAL_BUILD) MessageBox.Show($"Optimizer: {GetCurrentVersionTostring()}\n\nCoded by: kraldev0 © ∞\n\nhttps://github.com/Emre37destan/optimizer", "Optimizer", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    else MessageBox.Show("Optimizer: EXPERIMENTAL BUILD. PLEASE DELETE AFTER TESTING.\n\nCoded by: kraldev0 © ∞\n\nhttps://github.com/Emre37destan/optimizer", "Optimizer", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    if (!EXPERIMENTAL_BUILD) MessageBox.Show($"Optimizer: {GetCurrentVersionTostring()}\n\nCoded by: Emre37destan\n\nhttps://github.com/Emre37destan/optimizer", "Optimizer", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    else MessageBox.Show("Optimizer: EXPERIMENTAL BUILD. PLEASE DELETE AFTER TESTING.\n\nCoded by: Emre37destan\n\nhttps://github.com/Emre37destan/optimizer", "Optimizer", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                     Environment.Exit(0);
                     return;

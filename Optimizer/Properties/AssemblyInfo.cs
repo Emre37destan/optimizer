@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Optimizer")]
 [assembly: AssemblyDescription("The Finest Windows Optimizer")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("kraldev0 © ∞")]
+[assembly: AssemblyCompany("Emre37destan")]
 [assembly: AssemblyProduct("Optimizer")]
-[assembly: AssemblyCopyright("kraldev0 © ∞")]
+[assembly: AssemblyCopyright("Emre37destan")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

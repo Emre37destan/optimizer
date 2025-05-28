@@ -2814,6 +2814,7 @@ namespace Optimizer
             this.txtDownloadFolder.ReadOnly = true;
             this.txtDownloadFolder.Size = new System.Drawing.Size(377, 27);
             this.txtDownloadFolder.TabIndex = 70;
+            this.txtDownloadFolder.Text = "C:/Opt-Download";
             // 
             // changeDownDirB
             // 
@@ -6476,14 +6477,14 @@ namespace Optimizer
             this.l2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.l2.ForeColor = System.Drawing.Color.DodgerBlue;
             this.l2.LinkColor = System.Drawing.Color.DodgerBlue;
-            this.l2.Location = new System.Drawing.Point(1382, 690);
+            this.l2.Location = new System.Drawing.Point(1397, 690);
             this.l2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.l2.Name = "l2";
             this.l2.Size = new System.Drawing.Size(157, 28);
             this.l2.TabIndex = 59;
             this.l2.TabStop = true;
             this.l2.Tag = "themeable";
-            this.l2.Text = "kraldev0 © ∞";
+            this.l2.Text = "Emre37destan";
             this.l2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.l2_LinkClicked);
             // 
             // btnUpdate

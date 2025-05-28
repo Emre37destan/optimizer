@@ -3951,7 +3951,7 @@ namespace Optimizer
                         p.EnableRaisingEvents = true;
                         p.StartInfo.WorkingDirectory = txtDownloadFolder.Text;
 
-                        // APP-SPECIFIC HACKS //
+                        // UYGULAMAYA ÖZGÜ HİLELER //
                         if (a.ToLowerInvariant().Contains("sumatra")) p.StartInfo.Arguments = " -install";
                         // *** //
 
@@ -3962,7 +3962,7 @@ namespace Optimizer
                 }
             }
 
-            // reset all checkboxes
+            // tüm onay kutularını sıfırla
             foreach (Control c in Utilities.GetSelfAndChildrenRecursive(appsTab))
             {
                 if (c.Name == "cAutoInstall") continue;

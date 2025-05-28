@@ -75,51 +75,59 @@ namespace Optimizer
         private void t2_Tick(object sender, EventArgs e)
         {
             string s0 = "";
-            string s1 = "k";
-            string s2 = "kr";
-            string s3 = "kra";
-            string s4 = "kral";
-            string s5 = "krald";
-            string s6 = "kralde";
-            string s7 = "kraldev";
-            string s8 = "kraldev0";
-            string s9 = "kraldev0 © ";
-            string s10 = "kraldev0 © ∞";
+            string s1 = "E";
+            string s2 = "Em";
+            string s3 = "Emr";
+            string s4 = "Emre";
+            string s5 = "Emre3";
+            string s6 = "Emre37";
+            string s7 = "Emre37d";
+            string s8 = "Emre37de";
+            string s9 = "Emre37des";
+            string s10 = "Emre37dest";
+            string s11 = "Emre37desta";
+            string s12 = "Emre37destan";
 
             switch (l2.Text)
             {
                 case "":
                     l2.Text = s1;
                     break;
-                case "k":
+                case "E":
                     l2.Text = s2;
                     break;
-                case "kr":
+                case "Em":
                     l2.Text = s3;
                     break;
-                case "kra":
+                case "Emr":
                     l2.Text = s4;
                     break;
-                case "kral":
+                case "Emre":
                     l2.Text = s5;
                     break;
-                case "krald":
+                case "Emre3":
                     l2.Text = s6;
                     break;
-                case "kralde":
+                case "Emre37":
                     l2.Text = s7;
                     break;
-                case "kraldev":
+                case "Emre37d":
                     l2.Text = s8;
                     break;
-                case "kraldev0":
+                case "Emre37de":
                     l2.Text = s9;
                     break;
-                case "kraldev0 © ":
+                case "Emre37des":
                     l2.Text = s10;
+                    break;
+                case "Emre37dest":
+                    l2.Text = s11;
+                    break;
+                case "Emre37desta":
+                    l2.Text = s12;
                     t2.Stop();
                     break;
-                case "kraldev0 © ∞":
+                case "Emre37destan":
                     l2.Text = s0;
                     break;
             }
